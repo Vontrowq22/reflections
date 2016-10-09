@@ -1,3 +1,5 @@
 Q:What happens when you initialize a repository? Why do you need to do it?
 A:You create git repo that tracks changes. You need it to work with git control system.
 
+Q:How is the staging area different from the working directory and the repository? What value do you think it offers?
+A:Repository holds history of all commit versions. Working directory holds current commit. Staging area hold files that are required for commit.
