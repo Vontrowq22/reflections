@@ -36,6 +36,7 @@ A:Even if you break something, you could always come back to your previous
 commits. So with version control you could more freely do some stuff and 
 not to worry about breaking something.
 
+Commands #1:
 q |    exit git log!
 git log  |    List the commits and show which files have changed
 git log --stat  |    Show addition information about the commits

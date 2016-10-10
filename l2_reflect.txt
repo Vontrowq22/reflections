@@ -26,7 +26,7 @@ A:When there is no merge conflict in two commits, that is when commits dont chan
 code, git can merge this commits automatically. But when commits operate on same fields, 
 user must decide what commit should propagate.
 
-Commands:
+Commands #2:
 
 git add  |    Add a file to the staging area
 git commit  |    Commit the files from the staging area to the repository 
