@@ -16,3 +16,7 @@ branch.
 Q:How do the diagrams help you visualize the branch structure?
 A:You can see all comits of the branch from the last to the first parent from which this
 branch checked out.
+
+Q:What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A:Two branches will be checked out to the first parent commit of them and then all new commits
+will be added together.
