@@ -20,3 +20,8 @@ branch checked out.
 Q:What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A:Two branches will be checked out to the first parent commit of them and then all new commits
 will be added together.
+
+Q:What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A:When there is no merge conflict in two commits, that is when commits dont change same
+code, git can merge this commits automatically. But when commits operate on same fields, 
+user must decide what commit should propagate.
