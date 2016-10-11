@@ -16,3 +16,7 @@ A:You can work with a last known state of the remote offline.
 Q:How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A:Git gives you all needed instruments for revision control of your local repo. And GitHub adds
 opportunity to other people look at your project and suggest changes via pull requests.
+
+Q:When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A:When you add some features you not sure about, and want to get some collaboration from other
+people, so you create pull requests.
