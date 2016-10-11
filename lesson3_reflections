@@ -12,3 +12,7 @@ master branch.
 
 Q:What is the benefit of having a copy of the last known state of the remote stored locally?
 A:You can work with a last known state of the remote offline.
+
+Q:How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A:Git gives you all needed instruments for revision control of your local repo. And GitHub adds
+opportunity to other people look at your project and suggest changes via pull requests.
